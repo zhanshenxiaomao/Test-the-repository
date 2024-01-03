@@ -1,5 +1,5 @@
 <details>
-<summary>表</summary>
+<summary>咱想学点咱想学的好不好</summary>
 
 展开了又似乎没展开 因为我没写表
 
