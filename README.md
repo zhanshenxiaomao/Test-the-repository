@@ -1,3 +1,10 @@
+<details>
+<summary>表</summary>
+
+展开了又似乎没展开 因为我没写表
+
+</details>
+
 ### 提示
 
 这些东西是参见GitHub文档乱写的。
