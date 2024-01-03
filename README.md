@@ -1,7 +1,7 @@
 <details>
 <summary>本文内容</summary>
 
-[任务列表](https://github.com/zhanshenxiaomao/Test-the-repository#%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8)
+[任务列表](https://github.com/zhanshenxiaomao/Test-the-repository/blob/main/README.md#任务列表)
 
 </details>
 
