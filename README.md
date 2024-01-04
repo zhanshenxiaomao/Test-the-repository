@@ -1,7 +1,7 @@
 <details>
-<summary>本文内容</summary>
+<summary>语言</summary>
 
-[任务列表](https://github.com/zhanshenxiaomao/Test-the-repository?tab=readme-ov-file#任务列表)
+[English](https://github.com/zhanshenxiaomao/Test-the-repository/blob/main/English.md)
 
 </details>
 
