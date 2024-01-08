@@ -1,24 +1,54 @@
-<details>
-<summary>language</summary>
+### hint
+
+ These things are written randomly based on the GitHub documentation.
+
+ If you are not a beginner this will not be useful to you
+
+ ### task list
+
+ - [x] Completed
+ - [ ] undone
+
+ >Task list
+ ### Create method
+ ```
+ - [x] Completed
+ - [ ] undone
+ ```
+ ### Alert
 
 
 
-</details>
+ > [!NOTE]
+ > Blue Enchantress
 
-### Tips
+ > [!TIP]
+ >Limited Edition Green Vegetable Woof
 
-These things are scribbled by GitHub docs.
+ > [!IMPORTANT]
+ > Limited Edition Gay Purple
 
-If you're not a beginner, it's useless for you
+ > [!WARNING]
+ > Wheat yellow
 
-### Task list
+ > [!CAUTION]
+ > ~~Aunt Red~~ Red Storm
 
-- [x] Completed
-- [ ] Incomplete
+ >Alert
 
-> task list
-### Create a method
-```
-- [x] Completed
-- [ ] Incomplete
-```
+ ### Code
+
+
+ ```
+ > [!TIP]
+ >Limited Edition Green Vegetable Woof
+
+ > [!IMPORTANT]
+ > Limited Edition Gay Purple
+
+ > [!WARNING]
+ > Wheat yellow
+
+ > [!CAUTION]
+ > ~~Aunt Red~~ Red Storm
+ ```
